@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-cont{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    padding: 50px;
+}
+.left{
+    width: 90%;
+    height: 100%;
+    background-color: red;
+    padding: 15px;
+    border: 3px solid black;
+}
+.top{
+    width: 100%;
+    height: 60%;
+    background-color:orange;
+    padding: 10px;
+    display: flex;
+    border: 1px solid black;
+
+}
+.top-left{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(27, 164, 164);
+    border: 1px solid black;
+
+}
+.top-right{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(53, 178, 227);
+    padding: 10px;
+    border: 1px solid black;
+}
+.top-right-top{
+    width: 100%;
+    height: 60%;
+    background-color: rgb(99, 99, 248);
+    border: 1px solid white;
+}
+.top-right-bottom{
+    width: 100%;
+    height: 40%;
+    background-color: rgb(59, 59, 177);
+    border: 1px solid white;
+}
+.mid{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(202, 140, 26);
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+
+}
+.mid-left{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(255, 3, 175);
+    border: 1px solid black;
+}
+.mid-right{
+    width: 70%;
+    height: 100%;
+    background-color:rgb(249, 114, 206);
+    border: 1px solid black;
+
+}
+.bottom{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(146, 98, 16);
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+
+}
+.box{
+    width: 33%;
+    height: 100%;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+}
+
+.right{
+    width: 10%;
+    height: 100%;
+    background-color: rgb(192, 6, 6);
+    border: 3px solid black;
+
+}
