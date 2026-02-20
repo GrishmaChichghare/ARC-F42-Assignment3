@@ -15,87 +15,79 @@
     width: 90%;
     height: 100%;
     background-color: red;
-    padding: 15px;
-    border: 3px solid black;
+    padding: 15px;   
 }
 .top{
     width: 100%;
     height: 60%;
-    background-color:orange;
+    background-color:rgb(186, 247, 3);
     padding: 10px;
     display: flex;
-    border: 1px solid black;
-
+    margin-bottom: 3px;
 }
 .top-left{
     width: 70%;
     height: 100%;
-    background-color: rgb(27, 164, 164);
-    border: 1px solid black;
-
+    background-color: rgb(46, 177, 177);
+    margin-right: 3px;
 }
 .top-right{
     width: 30%;
     height: 100%;
-    background-color: rgb(53, 178, 227);
+    background-color: rgb(2, 182, 254);
     padding: 10px;
-    border: 1px solid black;
 }
 .top-right-top{
     width: 100%;
     height: 60%;
-    background-color: rgb(99, 99, 248);
-    border: 1px solid white;
+    background-color: rgb(21, 21, 219);
+    margin-bottom: 2px;
 }
 .top-right-bottom{
     width: 100%;
     height: 40%;
     background-color: rgb(59, 59, 177);
-    border: 1px solid white;
 }
 .mid{
     width: 100%;
     height: 20%;
-    background-color: rgb(202, 140, 26);
+    background-color: rgb(150, 101, 10);
     display: flex;
     padding: 10px;
-    border: 1px solid black;
-
+    margin-bottom: 3px;
 }
 .mid-left{
     width: 30%;
     height: 100%;
     background-color: rgb(255, 3, 175);
-    border: 1px solid black;
+    margin-right: 3px;
 }
 .mid-right{
     width: 70%;
     height: 100%;
     background-color:rgb(249, 114, 206);
-    border: 1px solid black;
-
+    margin-right: 2px;
 }
 .bottom{
     width: 100%;
     height: 20%;
-    background-color: rgb(146, 98, 16);
+    background-color: rgb(9, 0, 15);
     display: flex;
     padding: 10px;
-    border: 1px solid black;
 
 }
 .box{
-    width: 33%;
+    width: 34%;
     height: 100%;
     color: white;
-    background-color: black;
-    border: 1px solid white;
+    margin-right: 2px;
+    background-color: rgb(70, 108, 13);
+
 }
 
 .right{
     width: 10%;
     height: 100%;
     background-color: rgb(192, 6, 6);
-    border: 3px solid black;
 
 }
