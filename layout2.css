@@ -46,8 +46,12 @@
     height: 100%;
     background-color: rgb(152, 173, 192);
     margin-right: 5px;
+    display:flex;
+    justify-content:center;   
+    align-items:center;       
 
 }
+
 .box1{
     width: 50%;
     height: 50%;
@@ -61,7 +65,7 @@
     
 }
 .box2{
-    width: 96%;
+    width: 98%;
     height: 32%;
     background-color: rgb(95, 126, 48);
     margin-top: 4px;
