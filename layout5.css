@@ -4,20 +4,13 @@ body{
     background:#f2f4f7;
     display:flex;
     justify-content:center;
-    
 }
 
 .container{
-    width:50%;
+    width:35%;
     background:white;
-    padding:20px;
-    border-radius:10px;
+    padding:10px;
 }
-.container:hover {
-    transition: all 0.2s ease-out;
-    box-shadow: 0px 4px 8px black;
-    border: 1px solid #cccccc;    
-  }
 
 .header{
     display:flex;
@@ -46,7 +39,7 @@ body{
     padding:10px;
     display:flex;
     align-items:center;
-    margin-top:10px;
+    margin-top:5px;
     
 }
 .box1:hover {
@@ -60,17 +53,14 @@ body{
     margin-right:15px;
 }
 
-.box2{
-    margin-top:10px;
-}
-
 .box2-list{
+    padding: 10px;
     display:flex;
     justify-content:space-between;
 }
 
 .card{
-    width:100px;
+    width:120px;
     padding:10px;
     border-radius:15px;
     color:white;
@@ -92,17 +82,13 @@ body{
     background:#7c6ee6;
 }
 .card img{
-    width: 60px;
-}
-
-.box3{
-    margin-top:10px;
+    width: 80px;
 }
 
 .box3-box{
     background:#f1dede;
     border-radius:15px;
-    padding:10px;
+    padding:5px;
     display:flex;
     align-items:center;
 }
@@ -115,7 +101,6 @@ body{
 .box3-box img{
     width: 100px;
     margin-right:10px;
-  
 }
 
 .box3-btn{
